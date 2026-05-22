@@ -1,4 +1,18 @@
-## Hi there 👋
+## Hi, I'm Emily
+
+## About Me:
+- Major: Business Analytics and Information Systems
+- Interested in healthcare analytics and data visualization
+- Exploring AI and business intelligence tools
+
+## Currently Learning:
+- SQL
+- Python
+- Tableau
+- Excel Analysis
+
+## Career Goals:
+I hope to build a career in healthcare analytics, helping organizations use data to improve decision-making and patient experience. 
 
 <!--
 **EmilySteinmetz/EmilySteinmetz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
