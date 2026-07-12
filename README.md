@@ -10,6 +10,8 @@
 - Python
 - Tableau
 - Excel Analysis
+- JavaScript
+- HTML
 
 ## Career Goals:
 I hope to build a career in healthcare analytics, helping organizations use data to improve decision-making and patient experience. 
